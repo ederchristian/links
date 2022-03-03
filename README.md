@@ -6,11 +6,11 @@
 
 ## Motivação
 
-Utilizar um site que liste meus principais links. O objetivo principal é utilizá-lo da bio do Instagram
+Utilizar um site que liste meus principais links. O objetivo principal é utilizá-lo na bio do Instagram.
 
 ## Tecnologias utilizadas
 
-Esse _side project_ é um projeto bem simples. Foram utilizados:
+Esse _side project_ é um projeto bem simples. Foram utilizados apenas:
 
 - HTML
 - CSS
